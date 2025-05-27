@@ -88,3 +88,8 @@ form button {
 .skip-links a:focus {
   top: 0;
 }
+
+.address {
+  list-style: none;
+  padding-left: 0;
+}
